@@ -1,5 +1,7 @@
 # Change Log
 <pre>
+v1.3 	Updated module to support 64-bit.
+
 v1.2.3	Building with 2.1.3.GA and open sourcing [MOD-MOD-1266]
 	
 v1.2.2	Updated copyrights in source [MOD-1087]
