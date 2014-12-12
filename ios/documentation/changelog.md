@@ -1,6 +1,6 @@
 # Change Log
 <pre>
-v1.3 	Updated module to support 64-bit.
+v1.3.0	Updated module to support 64-bit [TIMOB-18092]
 
 v1.2.3	Building with 2.1.3.GA and open sourcing [MOD-MOD-1266]
 	

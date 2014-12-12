@@ -2,7 +2,7 @@
 # this is your module manifest and used by Titanium
 # during compilation, packaging, distribution, etc.
 #
-version: 1.3
+version: 1.3.0
 architectures: armv7 i386 x86_64 arm64
 description: Titanium Bump(tm) Module 
 author: Jeff Haynie / Appcelerator 
@@ -15,4 +15,4 @@ name: bump
 moduleid: ti.bump
 guid: 72636713-45bb-4754-ac97-608532e52889
 platform: iphone
-minsdk: 3.4.1
+minsdk: 3.4.1.GA
